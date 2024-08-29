@@ -1,0 +1,10 @@
+{
+    "inventoryStuff": [
+        {"name": "Piece 1"},
+        {
+            "name": "Small safe",
+            "isLockedSmallSafe": true
+        }
+    ],
+    "name": "Inventory"
+}

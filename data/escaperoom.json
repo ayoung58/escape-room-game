@@ -1,0 +1,47 @@
+{
+    "explorableStuff": [
+        {
+            "name": "Wall 1",
+            "isFirstTimeWall1": true,
+            "isLockedWall1": true
+        },
+        {
+            "name": "Wall 2",
+            "isFirstTimeWall2": true
+        },
+        {
+            "name": "Wall 3",
+            "isFirstTimeWall3": true
+        },
+        {
+            "isEmptyCabinet": false,
+            "isFirstTimeCabinet": true,
+            "isLockedCabinet": true,
+            "name": "Cabinet"
+        },
+        {
+            "name": "Small safe",
+            "isLockedSmallSafe": true
+        },
+        {
+            "name": "Red key",
+            "isUsedRedKey": false
+        },
+        {"name": "Piece 1"},
+        {"name": "Piece 2"},
+        {
+            "name": "Door",
+            "isLockedDoor": true
+        },
+        {
+            "isUsedGreenKey": false,
+            "name": "Green key"
+        },
+        {"name": "Desk"},
+        {
+            "isLockedNotebook": true,
+            "name": "Notebook (locked)"
+        }
+    ],
+    "name": "explorableObjects"
+}

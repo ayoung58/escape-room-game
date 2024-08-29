@@ -1,0 +1,15 @@
+{
+    "explorableStuff": [
+        {
+            "calledPhone": false,
+            "name": "Phone"
+        },
+        {
+            "isEmptyCabinet": false,
+            "isFirstTimeCabinet": true,
+            "isLockedCabinet": true,
+            "name": "Cabinet"
+        }
+    ],
+    "name": "Explorable"
+}

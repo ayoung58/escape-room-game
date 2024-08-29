@@ -1,0 +1,74 @@
+{
+  "explorableStuff": [
+    {
+      "name": "Green key",
+      "isUsedGreenKey": false
+    },
+    {
+      "name": "Notebook (locked)",
+      "isLockedNotebook": true
+    },
+    {
+      "name": "Red key",
+      "isUsedRedKey": false
+    },
+    {
+      "name": "Phone",
+      "calledPhone": false
+    },
+    {
+      "name": "Piece 1"
+    },
+    {
+      "name": "Piece 2"
+    },
+    {
+      "name": "Piece 3"
+    },
+    {
+      "name": "Small safe",
+      "isLockedSmallSafe": true
+    },
+    {
+      "name": "Desk"
+    },
+    {
+      "name": "Wall 2",
+      "isFirstTimeWall2": true
+    },
+    {
+      "name": "Wall 3",
+      "isFirstTimeWall3": true
+    },
+    {
+      "name": "Painting",
+      "isFilledPainting": false
+    },
+    {
+      "name": "Notebook (unlocked)"
+    },
+    {
+      "name": "Wall 1",
+      "isFirstTimeWall1": true,
+      "isLockedWall1": true
+    },
+    {
+      "name": "Cabinet",
+      "isEmptyCabinet": false,
+      "isLockedCabinet": true,
+      "isFirstTimeCabinet": true
+    },
+    {
+      "name": "Combination lock",
+      "isLockedCombinationLock": true
+    },
+    {
+      "name": "Door",
+      "isLockedDoor": true
+    },
+    {
+      "name": "Invalid"
+    }
+  ],
+  "name": "Explorable"
+}

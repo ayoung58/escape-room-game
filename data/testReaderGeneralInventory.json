@@ -1,0 +1,32 @@
+{
+  "inventoryStuff": [
+    {
+      "name": "Notebook (unlocked)"
+    },
+    {
+      "name": "Red key",
+      "isUsedRedKey": false
+    },
+    {
+      "name": "Green key",
+      "isUsedGreenKey": false
+    },
+    {
+      "name": "Notebook (locked)",
+      "isLockedNotebook": true
+    },
+    {
+      "name": "Piece 1"
+    },
+    {
+      "name": "Piece 2"
+    },
+    {
+      "name": "Piece 3"
+    },
+    {
+      "name": "Invalid"
+    }
+  ],
+  "name": "Inventory"
+}
